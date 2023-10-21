@@ -1,0 +1,76 @@
+body{
+    background-color: black;
+}
+
+.box-1{
+
+    align-content: 50%;
+    height: 50%;
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    align-items: stretch;
+    position: absolute;
+    top: 56%;
+    right: 45%; 
+    left: 25%;
+    margin: 0 auto;
+
+}
+
+.code-flix{
+ position: absolute;
+  left: 44%;
+  top: 16%;
+
+  
+}
+
+#Texto-1{
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 46%;
+    left: 45%;
+    
+    
+
+}
+.primeira-1{
+    margin-right: 3px;
+    margin-left: 3px;
+    
+}
+.segunda-2{
+    margin-right: 3px;
+    margin-left: 3px;
+    position: relative;
+
+
+}
+.terceira-3{
+    margin-right: 3px;
+    margin-left: 3px;
+
+}
+.quarta-4{
+    margin-right: 3px;
+    margin-left: 3PX;
+
+}
+.quinta-5{
+margin-right: 3px;
+margin-left: 3px;
+position: absolute;
+top: 86%;
+left: 45%;
+}
+button:hover{
+background-color: plum;
+cursor: pointer;
+transform: scale(1.1);
+transition: all ease-in-out 0.3s;
+}
